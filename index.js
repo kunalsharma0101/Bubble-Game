@@ -51,7 +51,7 @@ function runTimer(){
             <button class="text-sm font-bold bg-black border-white p-1 rounded-md flex justify-center items-center text-white" onclick="playAgain()"> Play Again </button>
             </div>`;
         }
-    }, 2000);
+    }, 1000);
 }
 
 // for playing again
